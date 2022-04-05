@@ -1,0 +1,3 @@
+﻿Hồ Trần Anh Khoa;2181498;Hệ thống thông tin quản lý;Lập trình ứng dụng trong kinh doanh;k18
+Trần Trung Tiến;2182239;Hệ thống thông tin quản lý;Lập trình ứng dụng trong kinh doanh;k18
+Trần Thành Thái;2185107;Hệ thống thông tin quản lý;Lập trình ứng dụng trong kinh doanh;k18

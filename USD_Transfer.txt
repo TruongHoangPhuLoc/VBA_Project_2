@@ -1,0 +1,6 @@
+﻿1;USD;23000;VND;VietNamDong
+2;USD;113.72;JPY;YenNhat
+3;USD;1.40;AUD;DoUc
+4;USD;0.75;GBP;BangAnh
+5;USD;74.17;RUB;MacNga
+6;USD;1;USD;DoMy

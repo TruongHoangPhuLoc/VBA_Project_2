@@ -1,0 +1,5 @@
+﻿1;1;month
+2;3;month
+3;6;month
+4;9;month
+5;12;month
